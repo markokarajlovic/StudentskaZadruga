@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889510758186",
+    "firebase_url": "https://studentska-zadruga.firebaseio.com",
+    "project_id": "studentska-zadruga",
+    "storage_bucket": "studentska-zadruga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889510758186:android:4d0a913d1e76e832",
+        "android_client_info": {
+          "package_name": "com.ephoenixdev.studentskazadruga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889510758186-ah0i2ljiucluc3piraqbgdmv2rvn4qml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ephoenixdev.studentskazadruga",
+            "certificate_hash": "4eb3f7fc9951edcf980d01437e6c609f3ef64982"
+          }
+        },
+        {
+          "client_id": "889510758186-k8q7i25ifid4kdtf2t4l6rfnes4rc26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qxo6jiNW6Qdbci6d4pjaAqfQWE8OohM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889510758186-k8q7i25ifid4kdtf2t4l6rfnes4rc26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

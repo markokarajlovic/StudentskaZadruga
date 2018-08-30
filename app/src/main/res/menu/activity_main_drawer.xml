@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Moj Profil"
+            android:visible="false" />
+
+    </group>
+
+    <item android:title="Komunikacija">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="O Nama" />
+        </menu>
+    </item>
+
+</menu>
